@@ -5,7 +5,7 @@ import java.math.BigDecimal;
 import br.com.gabrielmoraes.loja.orcamento.Orcamento;
 import br.com.gabrielmoraes.loja.orcamento.ItemOrcamento;
 
-public class TestesImpostos {
+public class TestesStrategy {
 	public static void main(String[] args) {
 		
 		Orcamento orcamento = new Orcamento();

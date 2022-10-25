@@ -2,7 +2,7 @@ package br.com.gabrielmoraes.loja.orcamento;
 
 import java.math.BigDecimal;
 
-public class TesteComposite {
+public class TesteProxy {
 
 	public static void main(String[] args) {
 		Orcamento antigo = new Orcamento();
